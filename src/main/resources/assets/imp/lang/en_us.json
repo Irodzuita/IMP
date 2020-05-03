@@ -1,0 +1,10 @@
+{
+  "item.imp.freyaxingot": "Freyax Ingot",
+  "block.imp.testblock": "Test Block",
+  "block.imp.freyaxore": "Freyax Ore",
+  "block.imp.glowglass": "Glow Glass",
+  "block.imp.dirtgenerator": "Dirt Generator",
+
+  "_comment": "Creative Tabs",
+  "itemGroup.imp": "IMP"
+}

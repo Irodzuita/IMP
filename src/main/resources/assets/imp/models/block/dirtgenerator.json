@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "imp:block/dirtgenerator_side",
+    "down": "imp:block/dirtgenerator_side",
+    "up": "imp:block/dirtgenerator_side",
+    "east": "imp:block/dirtgenerator_side",
+    "west": "imp:block/dirtgenerator_side",
+    "north": "imp:block/dirtgenerator_front",
+    "south": "imp:block/dirtgenerator_side"
+  }
+}

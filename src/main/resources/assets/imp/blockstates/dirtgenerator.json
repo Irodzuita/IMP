@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "facing=north": { "model": "imp:block/dirtgenerator" },
+    "facing=south": { "model": "imp:block/dirtgenerator", "y": 180 },
+    "facing=east": { "model": "imp:block/dirtgenerator", "y": 90},
+    "facing=west": { "model": "imp:block/dirtgenerator", "y": 270},
+    "facing=up": { "model": "imp:block/dirtgenerator", "x": -90 },
+    "facing=down": { "model": "imp:block/dirtgenerator", "x": 90 }
+  }
+}
